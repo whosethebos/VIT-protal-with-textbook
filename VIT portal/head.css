@@ -1,0 +1,30 @@
+body
+{
+	margin: 0;
+	padding: 0;
+	background-color: #F9F8F6;
+	padding-top: 20px;
+}
+.header
+{
+	margin: 0;
+	padding: 0;
+	background-color: #2980B9;
+	color: white;
+	text-align: right;
+}
+.header img
+{
+	margin: 0;
+	padding: 0;
+	position: relative;
+	left: 60px;
+}
+.header a
+{
+	text-decoration: none;
+	color: white;
+	margin: 0;
+	padding-right: 20px;
+}
+

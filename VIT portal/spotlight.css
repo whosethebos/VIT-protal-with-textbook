@@ -1,0 +1,40 @@
+body
+{
+	margin: 0;
+	padding: 50px;
+	background-color: #F9F8F6;
+	padding-top: 20px;
+}
+input[type=button]
+{
+	width: 100px;
+	height: 35px;
+	padding: 10px;
+	margin: 8px 0;
+	display: inline-block;
+	border: 1px solid #ccc;
+	border-radius: 4px;
+	box-sizing: border-box;
+	color: white;
+	background-color: #2980B9;
+}
+table
+{
+	padding: 15px;
+	background-color: white;	
+	border-top: 3px solid #2980B9;
+}
+table ul li 
+{
+	color: #2980B9;
+}
+table ul li a
+{
+	text-decoration: none;
+	color: #2980B9;
+}
+table ul li a:hover
+{
+	text-decoration: underline;
+	color: #204d74;
+}

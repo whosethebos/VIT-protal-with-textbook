@@ -1,0 +1,135 @@
+body
+{
+	margin: 0;
+	padding: 0;
+	background-color: #F9F8F6;
+	padding-top: 20px;
+}
+.header
+{
+	margin: 0;
+	padding: 0;
+	background-color: #2980B9;
+	color: white;
+	text-align: right;
+}
+.header img
+{
+	margin: 0;
+	padding: 0;
+	position: relative;
+	left: 60px;
+}
+
+table
+{
+	margin: 0;
+	padding: 20px;
+	padding-left: 50px;
+	font-family: sans-serif;
+}
+
+table .vlogin 
+{
+	margin: 0;
+	padding: 20px;
+	border-top: 3px solid #2980B9;
+	background-color: white;
+}
+table .vlogin th
+{
+	margin: 0;
+	padding: 10px;
+
+}
+table .vlogin td
+{
+	margin: 0;
+	padding: 10px;
+	color: #2980B9;
+}
+table .vlogin td .vbutton
+{
+	width: 120px;
+	height: 30px;
+	margin: 0;
+	padding: 3px;
+	color: white;
+	background-color: #2980B9;
+	border-radius: 6px;
+	font-weight: bolder;
+}
+table .spotlight
+{
+	margin: 0;
+	padding: 30px;
+	border-top: 3px solid #FFA62F;
+
+}
+table .spotlight td
+{
+	margin: 0;
+	padding: 10px;
+	color: #2980B9;
+
+}
+table .plogin 
+{
+	margin: 0;
+	padding: 20px;
+	border-top: 3px solid #4AA02C;
+	background-color: white;
+}
+table .plogin th
+{
+	margin: 0;
+	padding: 10px;
+
+}
+table .plogin td
+{
+	margin: 0;
+	padding: 10px;
+	color: #2980B9;
+}
+table .plogin td .pbutton
+{
+	width: 120px;
+	height: 30px;
+	margin: 0;
+	padding: 3px;
+	color: white;
+	background-color: #4AA02C;
+	border-radius: 6px;
+	font-weight: bolder;
+}
+table .alogin 
+{
+	margin: 0;
+	padding: 20px;
+	border-top: 3px solid #7AD1FF;
+	background-color: white;
+}
+table .alogin th
+{
+	margin: 0;
+	padding: 10px;
+
+}
+table .alogin td
+{
+	margin: 0;
+	padding: 10px;
+	color: #2980B9;
+}
+table .alogin td .abutton
+{
+	width: 120px;
+	height: 30px;
+	margin: 0;
+	padding: 3px;
+	color: white;
+	background-color: #7AD1FF;
+	border-radius: 6px;
+	font-weight: bolder;
+}

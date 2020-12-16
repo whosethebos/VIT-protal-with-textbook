@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<link rel="stylesheet" type="text/css" href="nav.css">
+</head>
+<body>
+<div id="mySidenav" class="sidenav">
+  <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">&times;</a>
+  <a href="#" target="_self">My info</a>
+  <a href="#" target="_self">Info Corner</a>
+  <a href="#" target="_self">Proctor</a>
+  <a href="#" target="_self">Academics</a>
+  <a href="programcore.html" target="main">Program Core</a>
+  <a href="universitycore.html" target="main">University core</a>
+  <a href="#" target="_self">Research</a>
+  <a href="#" target="_self">Examination</a>
+  <a href="#" target="_self">Services</a>
+  <a href="#" target="_self">Bonafied</a>
+  <a href="#" target="_self">Online Payment</a>
+  <a href="#" target="_self">Hostels</a>
+  <a href="#" target="_self">Receipt Book</a>
+  <a href="#" target="_self">My Account</a>
+</div>
+
+<span style="font-size:30px;cursor:pointer" onclick="openNav()">&#9776; &nbsp;</span>
+
+<script>
+function openNav() {
+  document.getElementById("mySidenav").style.width = "250px";
+}
+
+function closeNav() {
+  document.getElementById("mySidenav").style.width = "0";
+}
+</script>
+   
+</body>
+</html> 
