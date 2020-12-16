@@ -1,0 +1,26 @@
+body
+{
+	margin: 0;
+	padding: 0;
+	background-color: #F9F8F6;
+}
+h2
+{
+	margin: 0;
+	padding-left: 50px;
+	padding-top: 20px;
+	font-family: sans-serif;
+	color: #808080;
+	position: absolute;
+}
+.main
+{
+	padding-top: 150px;
+}
+.main .uni select[name="uni"]
+{
+	margin: 0;
+	padding: 0;
+	width: 400px;
+	height: 35px;	
+}
