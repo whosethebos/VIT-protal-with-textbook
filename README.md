@@ -1,3 +1,3 @@
 # VIT-protal-with-textbook
 
-![demo](demo.png)
+![demo](demo.PNG)
